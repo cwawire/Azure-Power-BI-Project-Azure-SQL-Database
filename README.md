@@ -49,16 +49,6 @@ This project analyzes men’s T-shirt brands to uncover insights on **revenue, d
 
 ---
 
-## 📸 Sample Visuals
-
-**Top Brands by Total Sale (Revenue Proxy):**  
-![Top Brands by Total Sale](images/top_brands_total_sale.png)
-
-**Top Brands by Average Discount % (≥5 SKUs):**  
-![Top Brands by Discount](images/top_brands_discount.png)
-
----
-
 ## 📊 KPIs & Metrics
 
 - **SKU Count:** 1,444  
@@ -115,15 +105,6 @@ Avg Discount % = AVERAGE ( Tshirts[Discount %] )
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository  
-2. Load `Men+Tshirt.csv` into **Power BI**  
-3. Apply **Power Query** transformations & DAX measures above  
-4. Publish to **Power BI Service** for dashboarding  
-
----
-
 ## 📌 Next Steps
 
 - Add **time series** for trend analysis  
@@ -131,7 +112,3 @@ Avg Discount % = AVERAGE ( Tshirts[Discount %] )
 - Segment by **category/style** for deeper insight  
 
 ---
-
-## 📝 License
-
-MIT (or choose your preferred license)
